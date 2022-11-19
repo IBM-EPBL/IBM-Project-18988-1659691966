@@ -9,7 +9,7 @@ Keerthana.s
 Hemapriya.k
 Saranya.j
 
-Project Objectives : Bomb
+Project Objectives : 
 
 By the end of this project :
 We'll be able to understand the problem to classify if it is a regression or a classification kind of problem.
